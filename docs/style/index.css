@@ -146,6 +146,13 @@ li.active a {
   height:100px;
   background-color: rgb(39,13,62);
 }
+.videotext3{
+  border-style: groove;
+  margin: 30px;
+  margin-bottom: 10px;
+  font-size: 26px;
+  text-align: center;
+}
 
 /*Glossary*/
 
