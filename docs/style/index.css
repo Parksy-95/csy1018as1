@@ -162,15 +162,35 @@ li.active a {
   float: left;
   padding: 0 0 0 0;  
   margin-top: 0px;
-  background-color: blue;
+  background-color: #37a7c465;
 }
 
-.tableheader{
-  text-align: right;
-  color: white; 
+table th{
+  text-align: center;
+  background-color: rgba(255, 255, 0, 0.226);
+  color: white;
+  padding: 4px 30px 4px 8px;
 }
-.tabledata{
-  color: aqua;
+
+table td{
+  border: 1px solid;
+  padding: 4px 8px;
+}
+
+table{
+  border-collapse: collapse;
+  margin-left: 100px;
+}
+
+table tr:nth-child(odd) td {
+  background-color: #e7edf0
+}
+
+h1{
+  text-align: center;
+}
+p{
+  text-align: center;
 }
 
 .footer-place3{
@@ -386,10 +406,10 @@ li.active a {
 }
 
 .wjpictures{
-  height: 530;
-  width: 400;
-  margin-left: 150;
-  margin-top: 50px;
+  height: 751px;
+  width: 720px;
+  margin-left: 0;
+  margin-top: 0;
 }
 .rightcolumn6{
   width: 50%;
