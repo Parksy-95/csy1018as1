@@ -183,16 +183,61 @@ li.active a {
 
 .leftcolumn4{
   width: 50%;
-  height: 751px;
+  height: 1750px;
   float: left;
   padding: 0 0 0 0;  
   margin-top: 0px;
   background-color: blue;
 }
+
+.flexboxfrog{
+  height: 400px;
+  margin: 25px 10px 10px 29px;
+}
+
+.frogtext{
+  margin: 100px 10px 10px 10px;
+  text-align: justify;
+  font-size: 15px;
+}
+
+.codepen{
+  height: 400px;
+  margin: 25px 10px 10px 29px;
+}
+
+.codetext{
+  margin: 390px 10px 10px 10px;
+  text-align: justify;
+  font-size: 15px;
+}
+
+.codecd{
+  height: 400px;
+  margin: 25px 10px 10px 29px;
+}
+
+.cadtext{
+  margin: 390px 10px 10px 10px;
+  text-align: justify;
+  font-size: 15px;
+}
+.frontend{
+  height: 400px;
+  margin: 25px 10px 10px 29px;
+  width: 639;
+}
+
+.frontendtext{
+  margin: 390px 10px 10px 10px;
+  text-align: justify;
+  font-size: 15px;
+}
+
 .rightcolumn4{
   width: 50%;
   padding: 0 0 0 0;
-  height: 751px;
+  height: 1750px;
   float: right;
   margin-top: 0px;
   background-color: rgb(189, 22, 152);
