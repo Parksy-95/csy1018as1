@@ -542,3 +542,25 @@ h3{
   height:100px;
   background-color: #C63D0F
 }
+
+/*Media Quries Attempt*/
+@media screen and (max-width:950px){
+  #leftcolumn{
+    width: 70%;
+    height: 100%;
+  }
+
+  .mat-image{
+  width: 70%;
+  margin: auto;
+  }
+  #rightcolumn{
+  width: 30%;
+  height: auto;
+  }
+  .joe-image{
+    margin: auto;
+    width: 70%;
+  }
+}
+  
