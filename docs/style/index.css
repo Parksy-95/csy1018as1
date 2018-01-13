@@ -4,7 +4,7 @@
 /*Home*/
 body { 
   height: 90%;
-  margin: 0;
+  margin: 0px;
   font-family:'helvetica', sans-serif;
   font-size: 1.5em;
 }
@@ -31,7 +31,7 @@ li {
   float: left;
   margin-right: 0px;
   border-right: 1px solid #aaa;
-  padding: 0 10px 10px 10px;
+  padding: 0px 10px 10px 10px;
 
 }
 
@@ -69,7 +69,7 @@ li.active a {
 
 .bannerimage{
   height: 599px;
-  margin-top: 0;
+  margin-top: 0px;
   width: 100%;
 }
 .leftcolumn{
@@ -77,7 +77,7 @@ li.active a {
   height: 620px;
   float: left;
   background-color: #3B3738;
-  padding: 100px 0 0 0;
+  padding: 100px 0px 0px 0px;
 
 }
 .mat-image{
@@ -106,14 +106,14 @@ li.active a {
 }
 .rightcolumn{
   width: 50%;
-  padding: 100px 0 0 0;
+  padding: 100px 0px 0px 0px;
   height: 620px;
   float:right;
   background-color: #3B3738;
 }
 .footer-place {
   clear:left;
-  margin-bottom:0;
+  margin-bottom:0px;
   width:100%;
   height:100px;
   background-color: #C63D0F
@@ -124,13 +124,13 @@ li.active a {
   width: 100%;
   height: 751px;
   float: left;
-  padding: 0 0 0 0;  
+  padding: 0px 0px 0px 0px;  
   margin-top: 0px;
   background-color: #3B3738;
 }
 .footer-place3{
   clear:left;
-  margin-bottom:0;
+  margin-bottom:0px;
   width:100%;
   height:100px;
   background-color: #C63D0F;
@@ -152,10 +152,10 @@ li.active a {
   background-color: #FDF3E7;
 }
 .video{
-  height: 545;
-  padding-left: 250;
-  width: 1000;
-  padding-top: 100;
+  height: 545px;
+  padding-left: 250px;
+  width: 1000px;
+  padding-top: 100px;
 }
 
 /*Glossary*/
@@ -164,7 +164,7 @@ li.active a {
   width: 100%;
   height: 1500px;
   float: left;
-  padding: 0 0 0 0;  
+  padding: 0px 0px 0px 0px;  
   margin-top: 0px;
   background-color: #FDF3E7;
 }
@@ -200,7 +200,7 @@ h1{
 
 .footer-place3{
   clear:left;
-  margin-bottom:0;
+  margin-bottom:0px;
   width:100%;
   height:100px;
   background-color: #C63D0F;
@@ -217,7 +217,7 @@ h1{
   width: 50%;
   height: 1810px;
   float: left;
-  padding: 0 0 0 0;  
+  padding: 0px 0px 0px 0px;  
   margin-top: 0px;
   background-color: #3B3738;
 }
@@ -269,7 +269,7 @@ h1{
 .frontend{
   height: 400px;
   margin: 25px 10px 10px 29px;
-  width: 640;
+  width: 640px;
   border-style: groove;
 }
 
@@ -307,7 +307,7 @@ h1{
   width: 50%;
   height: 1200px;
   float: left;
-  padding: 0 0 0 0;  
+  padding: 0px 0px 0px 0px;  
   margin-top: 0px;
   background-color: #3B3738;
 }
@@ -315,8 +315,8 @@ h1{
 .mklightning{
   height: 320px;
   width: 460px;
-  padding-left: 100;
-  padding-top: 100;
+  padding-left: 100px;
+  padding-top: 100px;
 }
 
 .mktext{
@@ -347,18 +347,17 @@ h1{
 }
 .rightcolumn5{
   width: 50%;
-  padding: 0 0 0 0;
+  padding: 0px 0px 0px 0px;
   height: 1200;
   float: right;
-  margin-top: 0px;
   background-color: #3B3738;
 }
 
 .BearGrylls{
   height: 320px;
   width: 460px;
-  padding-left: 100;
-  padding-top: 100;
+  padding-left: 100px;
+  padding-top: 100px;
 }
 
 .beargryllstext{
@@ -375,7 +374,6 @@ h1{
   height: 320px;
   width: 460px;
   padding-left: 100;
-  padding-top: 0;
 }
 
 .Auditext{
@@ -391,7 +389,7 @@ h1{
 }
 .footer-place5{
   clear:left;
-  margin-bottom:0;
+  margin-bottom:0px;
   width:100%;
   height:100px;
   background-color: #C63D0F
@@ -419,7 +417,7 @@ h1{
   width: 50%;
   height: 751px;
   float: left;
-  padding: 0 0 0 0;  
+  padding: 0px 0px 0px 0px;  
   margin-top: 0px;
   background-color: #3B3738;
 }
@@ -432,7 +430,7 @@ h1{
 }
 .rightcolumn6{
   width: 50%;
-  padding: 0 0 0 0;
+  padding: 0px 0px 0px 0px;
   height: 751px;
   float: right;
   margin-top: 0px;
@@ -440,14 +438,14 @@ h1{
 }
 h3{
   text-align: center;
-  padding: 0px 0 0 0;
+  padding: 0px 0px 0px 0px;
   color: #3B3738;
   font-size: 10px;
 }
 
 .footer-place6{
   clear:left;
-  margin-bottom:0;
+  margin-bottom:0px;
   width:100%;
   height:100px;
   background-color: #C63D0F
@@ -469,7 +467,7 @@ h3{
   width: 100%;
   height: 751px;
   float: left;
-  padding: 0 0 0 0;  
+  padding: 0px 0px 0px 0px;  
   margin-top: 0px;
   background-color: #3B3738;
 }
@@ -477,7 +475,7 @@ h3{
 .vaildtext{
     font-size: 37px;
     color: wheat;
-    margin-left: 0;
+    margin-left: 0px;
     margin-top: 10px;
     border-style: groove;
     text-align: center;
@@ -486,7 +484,7 @@ h3{
 }
 .footer-place7{
   clear:left;
-  margin-bottom:0;
+  margin-bottom:0px;
   width:100%;
   height:100px;
   background-color: #C63D0F
@@ -504,7 +502,7 @@ h3{
   width: 532px;
   height: 751px;
   float: left;
-  padding: 0 0 0 0;  
+  padding: 0px 0px 0px 0px;  
   margin-top: 0px;
   background-color: #3B3738;
 }
@@ -529,7 +527,7 @@ h3{
 
 .rightcolumn8{
   width: 63%;
-  padding: 0 0 0 0;
+  padding: 0px 0px 0px 0px;
   height: 751px;
   float: right;
   margin-top: 0px;
@@ -537,7 +535,7 @@ h3{
 }
 .footer-place8{
   clear:left;
-  margin-bottom:0;
+  margin-bottom:0px;
   width:100%;
   height:100px;
   background-color: #C63D0F
