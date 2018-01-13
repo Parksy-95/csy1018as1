@@ -12,7 +12,7 @@ body {
   margin-top:-100px;
   width:100%;
   height:120px;
-  background-color: #f2f5fb;
+  background-color: #C63D0F
 }
 
 nav {
@@ -53,12 +53,12 @@ li a {
 }
 
 li a:hover {
-  color: rgb(49, 233, 110);
+  color: rgb(255, 255, 255);
 }
 
 li.active a {
   font-weight: bold;
-  color: rgb(216, 11, 11);
+  color: rgb(252, 248, 248);
 }
 .banner-box{
   width: 100%;
@@ -76,7 +76,7 @@ li.active a {
   width: 50%;
   height: 620px;
   float: left;
-  background-color: #69c;
+  background-color: #3B3738;
   padding: 100px 0 0 0;
 
 }
@@ -90,19 +90,7 @@ li.active a {
   border-style: groove;
   margin: 30px;
   padding: 5px;
-}
-.videotext2{
-  border-style: groove;
-  margin: 30px;
-  margin-bottom: 10px;
-  font-size: 15px;
-  text-align: center;
-}
-.video{
-  height: 545;
-  padding-left: 250;
-  width: 1000;
-  padding-top: 100;
+  background-color: #FDF3E7
 }
 .joe-image{
   height: 312px;
@@ -114,20 +102,21 @@ li.active a {
   border-style: groove;
   margin: 30px;
   padding: 5px;
+  background-color: #FDF3E7
 }
 .rightcolumn{
   width: 50%;
   padding: 100px 0 0 0;
   height: 620px;
   float:right;
-  background-color: rgb(189, 22, 152);
+  background-color: #3B3738;
 }
 .footer-place {
   clear:left;
   margin-bottom:0;
   width:100%;
   height:100px;
-  background-color: rgb(39,13,62);
+  background-color: #C63D0F
 }
 /*video*/
 
@@ -137,14 +126,14 @@ li.active a {
   float: left;
   padding: 0 0 0 0;  
   margin-top: 0px;
-  background-color: blue;
+  background-color: #3B3738;
 }
 .footer-place3{
   clear:left;
   margin-bottom:0;
   width:100%;
   height:100px;
-  background-color: rgb(39,13,62);
+  background-color: #C63D0F:
 }
 .videotext3{
   border-style: groove;
@@ -152,6 +141,21 @@ li.active a {
   margin-bottom: 10px;
   font-size: 26px;
   text-align: center;
+  background-color: #FDF3E7;
+}
+.videotext2{
+  border-style: groove;
+  margin: 30px;
+  margin-bottom: 10px;
+  font-size: 15px;
+  text-align: center;
+  background-color: #FDF3E7;
+}
+.video{
+  height: 545;
+  padding-left: 250;
+  width: 1000;
+  padding-top: 100;
 }
 
 /*Glossary*/
@@ -162,12 +166,12 @@ li.active a {
   float: left;
   padding: 0 0 0 0;  
   margin-top: 0px;
-  background-color: #b2ecff;
+  background-color: #FDF3E7;
 }
 
 table th{
   text-align: center;
-  background-color: black;
+  background-color:  #3B3738;
   color: white;
   padding: 4px 30px 4px 8px;
 }
@@ -183,7 +187,8 @@ table{
 }
 
 table tr:nth-child(odd) td {
-  background-color: #e7edf0
+  background-color: #3B3738;
+  color: rgba(255, 255, 255, 0.664);
 }
 
 h1{
@@ -198,7 +203,7 @@ h1{
   margin-bottom:0;
   width:100%;
   height:100px;
-  background-color: rgb(8, 4, 8)
+  background-color: #C63D0F:
 }
 
 /*Resource Page*/
@@ -210,73 +215,87 @@ h1{
 
 .leftcolumn4{
   width: 50%;
-  height: 1750px;
+  height: 1810px;
   float: left;
   padding: 0 0 0 0;  
   margin-top: 0px;
-  background-color: blue;
+  background-color: #3B3738;
 }
 
 .flexboxfrog{
   height: 400px;
   margin: 25px 10px 10px 29px;
+  border-style: groove;
+  margin: 30px;
 }
 
 .frogtext{
   margin: 100px 10px 10px 10px;
   text-align: justify;
   font-size: 15px;
+  border-style: groove;
+  margin: 30px;
+  background-color: #FDF3E7;
+  
 }
 
 .codepen{
   height: 400px;
   margin: 25px 10px 10px 29px;
+  border-style: groove;
 }
 
 .codetext{
   margin: 390px 10px 10px 10px;
   text-align: justify;
   font-size: 15px;
+  border-style: groove;
+  background-color: #FDF3E7;
 }
 
 .codecd{
   height: 400px;
   margin: 25px 10px 10px 29px;
+  border-style: groove;
 }
 
 .cadtext{
   margin: 390px 10px 10px 10px;
   text-align: justify;
   font-size: 15px;
+  border-style: groove;
+  background-color: #FDF3E7;
 }
 .frontend{
   height: 400px;
   margin: 25px 10px 10px 29px;
   width: 640;
+  border-style: groove;
 }
 
 .frontendtext{
   margin: 390px 10px 10px 10px;
   text-align: justify;
   font-size: 15px;
+  border-style: groove;
+  background-color: #FDF3E7;
 }
 
 .rightcolumn4{
   width: 50%;
   padding: 0 0 0 0;
-  height: 1750px;
+  height: 1810px;
   float: right;
   margin-top: 0px;
-  background-color: rgb(189, 22, 152);
+  background-color: #3B3738;
 }
 .footer-place4{
   clear:left;
   margin-bottom:0;
   width:100%;
   height:100px;
-  background-color: rgb(39,13,62);
+  background-color: #C63D0F
 }
-
 /*Good Practice*/
 .row:after {
   content: "";
@@ -290,7 +309,7 @@ h1{
   float: left;
   padding: 0 0 0 0;  
   margin-top: 0px;
-  background-color: blue;
+  background-color: #3B3738;
 }
 
 .mklightning{
@@ -301,7 +320,7 @@ h1{
 }
 
 .mktext{
-  color: white;
+  background-color: #FDF3E7;
   text-align: justify;
   font-size: 15px;
   border-style: groove;
@@ -318,7 +337,7 @@ h1{
 }
 
 .redbulltext{
-  color: white;
+  background-color: #FDF3E7;
   text-align: justify;
   font-size: 15px;
   border-style: groove;
@@ -332,7 +351,7 @@ h1{
   height: 1200;
   float: right;
   margin-top: 0px;
-  background-color: rgb(189, 22, 152);
+  background-color: #3B3738;
 }
 
 .BearGrylls{
@@ -343,7 +362,7 @@ h1{
 }
 
 .beargryllstext{
-  color: white;
+  background-color: #FDF3E7;
   text-align: justify;
   font-size: 15px;
   border-style: groove;
@@ -360,7 +379,7 @@ h1{
 }
 
 .Auditext{
-  color: white;
+  background-color: #FDF3E7;
   text-align: justify;
   font-size: 15px;
   border-style: groove;
@@ -375,7 +394,7 @@ h1{
   margin-bottom:0;
   width:100%;
   height:100px;
-  background-color: rgb(39,13,62);
+  background-color: #C63D0F
 } 
 
 /*Webjobs*/
@@ -402,7 +421,7 @@ h1{
   float: left;
   padding: 0 0 0 0;  
   margin-top: 0px;
-  background-color: blue;
+  background-color: #3B3738;
 }
 
 .wjpictures{
@@ -417,16 +436,8 @@ h1{
   height: 751px;
   float: right;
   margin-top: 0px;
-  background-color: rgb(189, 22, 152);
+  background-color: #3B3738;
 }
-.footer-place6{
-  clear:left;
-  margin-bottom:0;
-  width:100%;
-  height:100px;
-  background-color: rgb(39,13,62);
-}
-
 h3{
   text-align: center;
   padding: 0px 0 0 0;
@@ -434,6 +445,13 @@ h3{
   font-size: 10px;
 }
 
+.footer-place6{
+  clear:left;
+  margin-bottom:0;
+  width:100%;
+  height:100px;
+  background-color: #C63D0F
+}
 /*Validation*/
 .row:after {
   content: "";
@@ -479,7 +497,7 @@ h3{
   float: left;
   padding: 0 0 0 0;  
   margin-top: 0px;
-  background-color: blue;
+  background-color: #3B3738;
 }
 
 .logpic{
@@ -488,11 +506,11 @@ h3{
 }
 
 .logtext{
-  color: white;
+  color: rgb(19, 15, 15);
   text-align: justify;
   font-size: 19px;
   border-style: groove;
-  border-color: rgb(245, 238, 238);
+  background-color: #FDF3E7;
   padding: 11px;
   margin-top: 25px;
   margin-left: 50px;
@@ -506,12 +524,12 @@ h3{
   height: 751px;
   float: right;
   margin-top: 0px;
-  background-color: rgba(189, 22, 153, 0.171);
+  background-color: #3B3738;
 }
 .footer-place8{
   clear:left;
   margin-bottom:0;
   width:100%;
   height:100px;
-  background-color: rgb(39,13,62);
+  background-color: #C63D0F
 }
