@@ -461,11 +461,12 @@ h3{
   height: 500px;
   margin-left: 200px;
   margin-top: 50px;
+  width: 800px;
 }
 
 .maincontent7{
   width: 100%;
-  height: 751px;
+  height: 2500px;
   float: left;
   padding: 0px 0px 0px 0px;  
   margin-top: 0px;
@@ -480,7 +481,49 @@ h3{
     border-style: groove;
     text-align: center;
     background-color: #3b3738;
+}
 
+.w3css{
+  height: 500px;
+  margin-left: 200px;
+  margin-top: 50px;
+}
+.w3text{
+  font-size: 37px;
+  color: wheat;
+  margin-left: 0px;
+  margin-top: 10px;
+  border-style: groove;
+  text-align: center;
+  background-color: #3b3738;
+}
+.inspect{
+  height: 500px;
+  margin-left: 200px;
+  margin-top: 50px;
+}
+.insptext{
+  font-size: 37px;
+  color: wheat;
+  margin-left: 0px;
+  margin-top: 10px;
+  border-style: groove;
+  text-align: center;
+  background-color: #3b3738;
+}
+.materialio{
+  height: 500px;
+  margin-left: 200px;
+  margin-top: 50px;
+}
+.martext{
+  font-size: 37px;
+  color: wheat;
+  margin-left: 0px;
+  margin-top: 10px;
+  border-style: groove;
+  text-align: center;
+  background-color: #3b3738;
 }
 .footer-place7{
   clear:left;
@@ -489,7 +532,6 @@ h3{
   height:100px;
   background-color: #C63D0F
 }
-
 
 /*log*/
 .row:after {
