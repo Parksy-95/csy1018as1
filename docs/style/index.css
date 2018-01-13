@@ -441,7 +441,7 @@ h1{
 h3{
   text-align: center;
   padding: 0px 0 0 0;
-  color: green;
+  color: #3B3738;
   font-size: 10px;
 }
 
@@ -459,28 +459,37 @@ h3{
   clear: both;
 }
 
-.leftcolumn7{
-  width: 50%;
+.validpic{
+  height: 500px;
+  margin-left: 200px;
+  margin-top: 50px;
+}
+
+.maincontent7{
+  width: 100%;
   height: 751px;
   float: left;
   padding: 0 0 0 0;  
   margin-top: 0px;
-  background-color: blue;
+  background-color: #3B3738;
 }
-.rightcolumn7{
-  width: 50%;
-  padding: 0 0 0 0;
-  height: 751px;
-  float: right;
-  margin-top: 0px;
-  background-color: rgb(189, 22, 152);
+
+.vaildtext{
+    font-size: 37px;
+    color: wheat;
+    margin-left: 0;
+    margin-top: 10px;
+    border-style: groove;
+    text-align: center;
+    background-color: #3b3738;
+
 }
 .footer-place7{
   clear:left;
   margin-bottom:0;
   width:100%;
   height:100px;
-  background-color: rgb(39,13,62);
+  background-color: #C63D0F
 }
 
 
