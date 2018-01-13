@@ -167,7 +167,7 @@ li.active a {
 
 table th{
   text-align: center;
-  background-color: rgba(255, 255, 0, 0.226);
+  background-color: black;
   color: white;
   padding: 4px 30px 4px 8px;
 }
